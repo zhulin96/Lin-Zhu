@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Tilt Neon
+- Font Author: Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)
+- Font Source: http://fonts.gstatic.com/s/tiltneon/v10/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK9WualJ9DS.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
