@@ -26,12 +26,12 @@
           <li>{{ partial "svg/facebook.svg" }}</li>
         </a>
         {{ end }}
-        <!-- LinkedIn -->
+        <!-- LinkedIn 
         {{ if .Site.Params.social.share.linkedin }}
         <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $url }}&amp;source={{ $url }}&amp;title={{ $title }}&amp;summary={{ $title }}" target="_blank" rel="noopener" aria-label="Share on LinkedIn" class="social-btn linkedin">
           <li>{{ partial "svg/linkedin.svg" }}</li>
         </a>
-        {{ end }}
+        {{ end }}-->
         <!-- Email -->
         {{ if .Site.Params.social.share.email }}
         <a href="mailto:?subject={{ .Site.Title }}%20-%20{{ $title }}.&amp;body={{ $body }}" target="_blank" class="social-btn email">
